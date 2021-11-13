@@ -1,4 +1,4 @@
-👋 Hi everybody, my name is <b>Arkadiy</b>, I'm Frontend Developer
+👋  Hi everybody, my name is <b>Arkadiy</b>, I'm Frontend Developer
 
 ### Contacts
 
