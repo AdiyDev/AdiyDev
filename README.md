@@ -1,3 +1,5 @@
+👋 Hi everybody, my name is <b>Arkadiy</b>, I'm Frontend Developer
+
 ### Contacts
 
 <a href="https://linkedin.com/in/arkadiy-bashirov-13a4b6212"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;"></a> <a href="https://t.me/fnDev"><img src="https://img.shields.io/badge/-fnDev-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;"></a>
@@ -25,5 +27,5 @@
 <img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&amp;logo=apollo-graphql&amp;">
 <img src="https://img.shields.io/badge/-RTK Query-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiyDev&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiyDev&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiyDev&layout=compact)](https://github.com/AdiyDev/github-readme-stats)
 
