@@ -10,8 +10,6 @@
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Redux-ffffff?style=flat&logo=redux&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Redux-ffffff?style=flat&logo=redux-saga&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Redux-ffffff?style=flat&logo=styled-component&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
