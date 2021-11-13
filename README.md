@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdiyDev, frontend developer
 - 👀 I’m work with ... React, Redux, NextJS, styled-components/modules,scss,bootstrap, formik, react-hook-form, git/gitlab, CI/CD, jira/fibery/trello/todoist, thunk/saga, axios, agile/scrum, Figma and other techs & skills
-- 🌱 I’m currently learning ... TypeScript, 
+- 🌱 I’m currently learning ... TypeScript, Graphql, RTK Query
 - 💞️ I’m looking to collaborate on ... I'm working now
 - 📫 How to reach me: adiy.work.mail@ya.ru
 
