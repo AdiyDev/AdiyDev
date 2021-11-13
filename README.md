@@ -27,5 +27,5 @@
 <img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&amp;logo=apollo-graphql&amp;">
 <img src="https://img.shields.io/badge/-RTK Query-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiyDev&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiyDev&layout=compact)](https://github.com/AdiyDev/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiyDev&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiyDev&layout=compact&hide_border=true)](https://github.com/AdiyDev/github-readme-stats)
 
