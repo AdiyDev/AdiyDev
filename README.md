@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-007ACC?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white">
+<img src="https://img.shields.io/badge/-RTK Query-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white">
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white">
 <img src="https://img.shields.io/badge/-Next-434242?style=flat-square&amp;logo=Next.js&amp;logoColor=white" >
 <img src="https://img.shields.io/badge/-Redux Saga-EDEDED?style=flat-square&amp;logo=Redux-saga&amp;logoColor=86d46b">
@@ -26,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&amp;logo=graphql&amp;"> 
 <img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&amp;logo=apollo-graphql&amp;">
-<img src="https://img.shields.io/badge/-RTK Query-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white">
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiyDev&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiyDev&layout=compact&hide_border=true)](https://github.com/AdiyDev/github-readme-stats)
 
