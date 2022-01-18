@@ -22,13 +22,13 @@
 <img src="https://img.shields.io/badge/-Ant Design-0170fe?style=flat&amp;logo=ant-design&amp;"> 
 <img src="https://img.shields.io/badge/-Material UI-0170fe?style=flat&amp;logo=material-ui&amp;">
 
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&amp;logo=prettier&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Eslint-4B32C3?style=flat&amp;logo=eslint&amp;logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&amp;logo=gitlab&amp;"> ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&amp;logo=prettier&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Eslint-4B32C3?style=flat&amp;logo=eslint&amp;logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&amp;logo=gitlab&amp;"> ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&amp;logo=graphql&amp;"> 
+<img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&amp;logo=apollo-graphql&amp;"> 
 
 ![](https://komarev.com/ghpvc/?username=AdiyDev)
 ### I’m currently learning
 
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&amp;logo=typescript&amp;logoColor=white"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&amp;logo=graphql&amp;"> 
-<img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&amp;logo=apollo-graphql&amp;"> 
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&amp;logo=typescript&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Jest-%2338B2AC.svg?style=flat&amp;logo=jest&amp;logoColor=white">
 
 
 
