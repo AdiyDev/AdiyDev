@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/-Redux Saga-EDEDED?style=flat&amp;logo=Redux-saga&amp;logoColor=86d46b">
 
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&amp;logo=styled-components&amp;logoColor=white">
+<img src="https://img.shields.io/badge/-Emotion-db7092?style=flat&logo=emotion&logoColor=db7092">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/-Ant Design-0170fe?style=flat&amp;logo=ant-design&amp;"> 
