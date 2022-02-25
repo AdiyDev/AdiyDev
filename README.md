@@ -29,7 +29,7 @@
 ![](https://komarev.com/ghpvc/?username=AdiyDev)
 ### I’m currently learning
 
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&amp;logo=typescript&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Jest-%2338B2AC.svg?style=flat&amp;logo=jest&amp;logoColor=white">
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&amp;logo=typescript&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Jest-%2338B2AC.svg?style=flat&amp;logo=jest&amp;logoColor=white"> <img src="https://img.shields.io/badge/-React_testing_library-007ACC.svg?style=flat&amp;logo=testing;logoColor=white"> <img src="https://img.shields.io/badge/-Webdriver libraryIO-F1502F.svg?style=flat&amp;logo=webdriverlibraryio&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Storybook+Loki-563D7C.svg?style=flat&amp;logo=storybook&amp;logoColor=white">
 
 
 
