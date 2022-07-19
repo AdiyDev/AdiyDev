@@ -31,7 +31,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&amp;logo=typescript&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Jest-%2338B2AC.svg?style=flat&amp;logo=jest&amp;logoColor=white"> <img src="https://img.shields.io/badge/-React_testing_library-007ACC.svg?style=flat&amp;logo=testing;logoColor=white"> <img src="https://img.shields.io/badge/-Webdriver libraryIO-F1502F.svg?style=flat&amp;logo=webdriverlibraryio&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Storybook+Loki-563D7C.svg?style=flat&amp;logo=storybook&amp;logoColor=white">
-
+microfront, webpack, rollup, esbuild
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiyDev&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiyDev&layout=compact&hide_border=true)](https://github.com/AdiyDev/github-readme-stats)
