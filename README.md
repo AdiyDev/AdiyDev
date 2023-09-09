@@ -1,4 +1,5 @@
-👋  Hi everybody, my name is <b>Arkadiy</b>, I'm Frontend Developer
+👋  Hi everybody, my name is <b>Arkadiy</b>, I'm Frontend Developer <br/>
+product development from 0 to market launch / fintech / e-commerce
 
 ### Contacts
 
@@ -19,7 +20,8 @@
 <img src="https://img.shields.io/badge/-scss | less -cc6699?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-css in js-db7092?style=flat&amp;logo=styled-components&amp;logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white">
 
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&amp;logo=prettier&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Eslint-4B32C3?style=flat&amp;logo=eslint&amp;logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&amp;logo=gitlab&amp;"> ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&amp;logo=graphql&amp;"> 
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&amp;logo=prettier&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Eslint-4B32C3?style=flat&amp;logo=eslint&amp;logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> 
+<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&amp;logo=gitlab&amp;"> ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&amp;logo=graphql&amp;"> 
 <img src="https://img.shields.io/badge/-Apollo-311C87?style=flat&amp;logo=apollo-graphql&amp;"> <img src="https://img.shields.io/badge/-Jest-%2338B2AC.svg?style=flat&amp;logo=jest&amp;logoColor=white"> <img src="https://img.shields.io/badge/-React_testing_library-007ACC.svg?style=flat&amp;logo=testing;logoColor=white"> <img src="https://img.shields.io/badge/-Webdriver libraryIO-F1502F.svg?style=flat&amp;logo=webdriverlibraryio&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Storybook-563D7C.svg?style=flat&amp;logo=storybook&amp;logoColor=white"> <img src="https://img.shields.io/badge/-Webpack | Rollup | esbuild -blue.svg?style=flat&amp;logo=webpack&amp;logoColor=white">
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
