@@ -5,7 +5,7 @@ areas: foodtech / fintech / beauty / e-commerce
 
 ### Contacts
 
-<a href="https://linkedin.com/in/arkadiy-bashirov-13a4b6212" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;"></a> <a href="https://t.me/AdiyDev"><img src="https://img.shields.io/badge/-AdiyDev-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;"></a>
+<a href="https://linkedin.com/in/arkadiy-bashirov-13a4b6212" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;"></a>
 <a href="mailto:adiy.work.mail@ya.ru"> <img src="https://img.shields.io/badge/-adiy.work.mail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
 
 ### Tech & Tools Preference
