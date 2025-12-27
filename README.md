@@ -4,7 +4,7 @@
 - Optimization and refactoring of high-load systems
 - Product development in enterprise teams
 
- <b>areas</b>: fintech / foodtech / beauty / e-commerce
+ <b>areas</b>: fintech / e-commerce / foodtech / beauty 
 
 ### Contacts
 
