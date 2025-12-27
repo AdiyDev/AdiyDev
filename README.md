@@ -1,7 +1,10 @@
 👋  Hi everybody, my name is <b>Arkadiy</b>, I'm Frontend Developer <br/>
 
-Product development from 0 to mvp / market / working in large teams (100+) / refactoring projects <br/>
-areas: fintech / foodtech / beauty / e-commerce
+- Product development from zero and MVP launch
+- Optimization and refactoring of high-load systems
+- Product development in enterprise teams
+
+ <b>areas</b>: fintech / foodtech / beauty / e-commerce
 
 ### Contacts
 
