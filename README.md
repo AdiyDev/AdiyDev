@@ -2,7 +2,7 @@
 
 - Product development from zero and successful startup launches
 - Optimization and refactoring of high-load systems
-- Product development in large enterprise teams
+- Product development from small startup teams to large enterprise teams.
 
  <b>areas</b>: fintech / e-commerce / foodtech / beauty 
 
